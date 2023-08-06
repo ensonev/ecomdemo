@@ -1,0 +1,11 @@
+/venv/
+/.env
+/.env.temp
+/db.sqlite3
+
+__pycache__/
+
+/README_FEATURE.md
+/.coverage
+.idea/
+/get-pip.py
